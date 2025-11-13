@@ -17,10 +17,13 @@
 
 ---
 
-### ⚡ Quick Stats  
+### ⚡ Quick Stats (Rank Included)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=404Avinash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404Avinash&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=404Avinash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="55%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404Avinash&theme=tokyonight&hide_border=true" width="55%">
 </p>
 
 <p align="center">
