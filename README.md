@@ -26,6 +26,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,linux,vscode" />
 </p>
+### ⚡ Quick Stats  
+
+<p align="center">
+  <!-- Rank circle / stats card (gaming rank style: S A B C will appear inside the badge automatically) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=404Avinash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&v=2" width="48%">
+  <!-- Streak card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404Avinash&theme=tokyonight&hide_border=true" width="48%">
+</p>
 
 ---
 
@@ -39,11 +47,4 @@ Learning. Building. Observing.
 
 > location
 ~/somewhere/between/reality_and_code
-### ⚡ Quick Stats  
 
-<p align="center">
-  <!-- Rank circle / stats card (gaming rank style: S A B C will appear inside the badge automatically) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=404Avinash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&v=2" width="48%">
-  <!-- Streak card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404Avinash&theme=tokyonight&hide_border=true" width="48%">
-</p>
