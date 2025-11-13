@@ -23,6 +23,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=404Avinash&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=404Avinash&layout=compact&theme=tokyonight&hide_border=true" width="45%">
+</p>
+
 ---
 
 ### 🧩 Tech Arsenal  
@@ -39,6 +43,9 @@
 
 > status
 Clutching. Learning. Building. Observing.
+
+> mode
+Mid-sem clutch active
 
 > location
 ~/somewhere/between/reality_and_code
