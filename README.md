@@ -16,8 +16,8 @@
 ### ⚡ Quick Stats  
 
 <p align="center">
-  <img src="https://YOUR-GITHUB-STATS.vercel.app/api?username=404Avinash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%">
-  <img src="https://YOUR-STREAK-STATS.vercel.app/?user=404Avinash&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://404avinash-n1o35iekq-404avinashs-projects.vercel.app/api?username=404Avinash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%">
+  <img src="https://github-readme-streak-stats-eight-sage.vercel.app/?user=404Avinash&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 ---
