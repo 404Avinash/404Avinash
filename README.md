@@ -9,7 +9,7 @@
 ---
 
 ### 🧠 Currently Learning  
-Web Dev • Python • C++ • NETWORKING
+Web Dev • Python • C++ • Networking
 
 ---
 
