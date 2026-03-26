@@ -1,39 +1,52 @@
-<!-- 👋 Welcome to the void -->
+<!-- 👁️ System Architect in Progress -->
 
-<h1 align="center">404Avinash</h1>
+<h1 align="center">Avinash Jha</h1>
 
 <p align="center">
-  <em>“404 Not Found — But Still Searching.”</em>
+  <em>Builder of systems. Not just code.</em>
 </p>
 
 ---
 
-### 🧠 Currently Learning  
-Web Dev • Python • C++ • Networking
+### 🧠 What I Do  
+- Build AI systems, digital twins, and real-time dashboards  
+- Turn ambiguous problems into structured, working products  
+- Focus on usability — not just output, but decision-making  
 
 ---
 
-### ⚡ Quick Stats  
+### ⚡ Proof of Work  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=404Avinash&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404Avinash&theme=tokyonight&hide_border=true" width="48%">
-</p>
+- 🥈 2nd Place — IIT Delhi TRYST ’26 (Claw & Shield)  
+  → Architected a cryptographically governed AI system in a 36-hour build  
+
+- 🛰️ JATAYU — Predictive Threat Intelligence System  
+  → ML pipelines + operator dashboards for proactive decision-making  
+
+- 🧠 NETRA — Digital Twin Threat Scoring System  
+  → Real-time anomaly detection with simulation-based insights  
+
+- ⚖️ AI Lawyer  
+  → Multi-layer enforcement pipeline with audit + security logic  
 
 ---
 
-### 🧩 Tech Arsenal  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,linux,networking,vscode" />
-</p>
+### 🧩 Tech Stack  
+`Python` `C++` `JavaScript`  
+`ML / AI` `Streamlit` `FastAPI`  
+`System Design` `Digital Twin Simulation`
 
 ---
 
-### 🕶️ About Me  
+### 🧭 Current Focus  
+- Open Source Contributions (GSSoC ’26)  
+- AI-driven systems & real-world applications  
+- Building products that actually get used  
+
+---
+
+### 🕶️ Philosophy  
 ```bash
-> whoami
-404Avinash
-> status
-Learning. Building. Observing.
-> location
-~/somewhere/between/reality_and_code
+> build > talk
+> clarity > complexity
+> systems > scripts
