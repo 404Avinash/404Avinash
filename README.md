@@ -46,8 +46,8 @@ Web Dev · Python · C++ · ML Systems · Edge AI
 | Event | Role | Result |
 |---|---|---|
 | 🏛️ Claw & Shield — IIT Delhi TRYST '26 | Team Lead & System Architect | 🥈 2nd Place · ₹12,000 |
-| ✈️ CSIR-NAL Aerofest 3.0 (2022) | Designer | 🏅 National Winner |
-| ✈️ CSIR-NAL Aerofest 2.0 (2021) | Designer | 🏅 National Winner |
+| ✈️ CSIR-NAL Aerofest 3.0 (2022) | Designer & Lead | 🏅 National Winner |
+| ✈️ CSIR-NAL Aerofest 2.0 (2021) | Designer & Lead | 🏅 National Winner |
 
 ---
 
